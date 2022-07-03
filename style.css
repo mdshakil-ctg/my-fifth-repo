@@ -2,3 +2,9 @@ h1{
     color:aqua;
     background-color: bisque;
 }
+
+p{
+    color: #fff;
+    background-color: #ddd;
+    position: inherit;
+}
